@@ -4,7 +4,7 @@
 This project aims to maximize the weekly profit of a chip manufacturing plant given certain constraints.
 
 ## Problem Statement
-Given time as a resource to produce a given chip, the profit per unit and the cost per unit determine at most 5 products to be utilized while maximizing profit.
+Given time as a resource to produce a chip, the profit per unit and the cost per unit determine at most 5 products to be utilized while maximizing profit.
 
 <i>*Specific constraints are defined in the model creation notebook.
 
